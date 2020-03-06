@@ -1,0 +1,9 @@
+/*Styling!! Uncomment line 3 voor cool surprise :)*/
+
+/*body{background-image: url('images/tenor.gif');} h1{ color: aliceblue;}*/
+
+.img {
+    flex-direction: row;
+    width:200px;
+    height:auto;
+}
